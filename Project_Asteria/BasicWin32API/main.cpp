@@ -2,9 +2,7 @@
 
 int main() {
 
-	DebugBreak();
-
-	LPCSTR text = "Content Text";
+	LPCSTR text = "Content";
 	LPCSTR title = "Title";
 	MessageBoxA(NULL, text, title, NULL);
 
