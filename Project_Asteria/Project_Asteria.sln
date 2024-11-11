@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PatchMeow", "PatchMeow\Patc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LimitedOverflow", "LimitedOverflow\LimitedOverflow.vcxproj", "{83073469-3CE2-46AE-8173-3B9B82280001}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWindows", "HelloWindows\HelloWindows.vcxproj", "{0B3025C5-4D28-42DD-ADA0-91436DE29F92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{83073469-3CE2-46AE-8173-3B9B82280001}.Release|x64.Build.0 = Release|x64
 		{83073469-3CE2-46AE-8173-3B9B82280001}.Release|x86.ActiveCfg = Release|Win32
 		{83073469-3CE2-46AE-8173-3B9B82280001}.Release|x86.Build.0 = Release|Win32
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Debug|x64.ActiveCfg = Debug|x64
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Debug|x64.Build.0 = Debug|x64
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Debug|x86.Build.0 = Debug|Win32
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Release|x64.ActiveCfg = Release|x64
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Release|x64.Build.0 = Release|x64
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Release|x86.ActiveCfg = Release|Win32
+		{0B3025C5-4D28-42DD-ADA0-91436DE29F92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

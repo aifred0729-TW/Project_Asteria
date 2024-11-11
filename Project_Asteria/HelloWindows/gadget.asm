@@ -1,0 +1,7 @@
+.code
+
+JMPRSP PROC
+	jmp rsp
+JMPRSP ENDP
+
+END
